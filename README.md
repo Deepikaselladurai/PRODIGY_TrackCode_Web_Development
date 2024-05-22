@@ -1,3 +1,25 @@
+PRODIGY_TrackCode_Web_Development_WD_01
+
+Developing a responsive landing page involves creating a design that adapts seamlessly to different screen sizes and devices.
+The key aspects include:
+
+1. HTML Structure: Establish the basic structure of the landing page using semantic HTML elements, ensuring proper organization and accessibility.
+
+2. CSS Reset: Apply a CSS reset or normalization to ensure consistent styling across different browsers.
+
+3. Mobile-First Approach: Adopt a mobile-first design approach, starting with styles for smaller screens and progressively enhancing for larger viewports.
+
+4. Responsive Layout: Utilize CSS techniques like flexbox or CSS Grid to create a responsive layout that adapts to different screen sizes.
+
+5. Media Queries: Implement media queries to apply specific styles based on viewport dimensions, ensuring optimal display across various devices.
+
+6. Responsive Images: Optimize images for different resolutions and employ responsive image techniques like srcset or <picture> elements.
+
+7. Responsive Typography: Ensure text remains legible and properly sized across different viewports by using relative units (e.g., rem, em, or percentages) for font sizes.
+
+8. Responsive Navigation: Implement a responsive navigation menu that adapts to smaller screens, possibly using techniques like a hamburger menu or off-canvas navigation.
+
+
 PRODIGY_TrackCode_Web_Development_WD_02
 
 Creating a stopwatch web application involves leveraging HTML for structure, CSS for styling, and JavaScript for functionality. CSS enhances the visual presentation, allowing customization of colors and layouts for a polished appearance. The stopwatch application serves as a practical tool for measuring time intervals accurately.
@@ -34,3 +56,26 @@ Creating a tic-tac-toe web application entails leveraging HTML, CSS, and JavaScr
 6.Single or Multiplayer Options: Provide options for users to play against each other or against an AI opponent, catering to different preferences.
 
 7.Responsive Design: Ensure the game interface adjusts seamlessly across various devices and screen sizes for an optimal user experience.
+
+
+PRODIGY_TrackCode_Web_Development_WD_05
+
+A simple web application that provides current weather information for any location. It utilizes a third-party weather API to fetch and display weather data.
+
+1.Set up the project: Create a new project directory and initialize it with your preferred tools (e.g., create-react-app, vanilla JavaScript, etc.).
+
+2.Create HTML structure: Set up the basic HTML structure with elements for the search input, weather information display, and any other necessary components.
+
+3.Style with CSS: Apply CSS styles to enhance the appearance of the app, including layout, typography, and responsiveness.
+
+4.Fetch weather data: Choose a weather API provider (e.g., OpenWeatherMap, WeatherAPI, etc.) and sign up for an API key.
+
+5.Implement search functionality: Add an event listener to the search input field to capture the user's input (city name).
+
+6.Make API requests: Use JavaScript to make API requests to fetch weather data based on the user's input (city name).
+
+7.Process API response: Parse the API response and extract relevant weather information, such as temperature, weather condition, and other details.
+
+8.Display weather information: Update the HTML elements with the fetched weather data, providing a user-friendly display.
+
+
